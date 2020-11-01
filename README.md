@@ -1,4 +1,10 @@
-# WorkingWithTextData
+# Working With Text Data
+## Deliverables
+### Samuel
+- 1st paragraph (SkLearn, nltk)
+
+### Rohith, Merci, Dijia
+- Twitter API, Web Scraping
 
 ## Useful Links
 ### Twitter API
