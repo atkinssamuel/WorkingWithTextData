@@ -131,3 +131,4 @@ dmypy.json
 # Samuel Atkins: Personal Ignores
 /amazon-review-data*
 .vector_cache*
+*.zip
