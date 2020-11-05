@@ -1,6 +1,3 @@
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
-
 ```python
 # importing
 import pandas as pd
@@ -34,7 +31,7 @@ import gensim
 ## TF/IDF
 Term Frequency (TF) and Inverse Document Frequency (IDF) are useful data that will inform us as to which terms are the most relevant to a given document in a corpus. TF simply measures the frequency of a given word in a document. This measurement is useful because typically, common words are relevant to the meaning of that document. TF can be calculated in the following way:
 
-\\(TF = OC / T\\)
+$TF = OC / T$
 
 $OC$ is the total number of occurences of that particular word in the document and $T$ is the total number of words in the document. Suppose we have access to all of the articles on Wikipedia. Our corpus, in this context, is all of these Wikipedia articles combined. Each of these articles would be its own entity called a document. Document Frequency (DF) is a measure of how frequently a given word appears in the entire corpus of text. The IDF is the inverst of the DF:
 
